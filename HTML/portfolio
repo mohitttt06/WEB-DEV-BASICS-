@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqBwKF3FNPQlq2sjHp5ztQaYknKyZWHVHrX4tlUPuwzA&s">
+    <title>MY PORTFOLIO</title>
+</head>
+<body>
+
+    <h1>MY PORTFOLIO</h1>
+
+    <h2>PERSONAL DETAILS</h2>
+    
+       <p><img src="https://png.pngtree.com/png-vector/20240104/ourmid/pngtree-name-isolated-tiled-letters-concept-and-theme-label-png-image_10944477.png" width="100" height="100" alt="NAME"><br>  NAME: MOHIT <br></p>
+       <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-2NSlflFhDPpGJBMhKsypiXhXP2yc8JA_Z2bEC5BHA&s=10" width="100" height="100" alt="AGE"> <br>  AGE: 20 YEARS<br></p>
+       <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2GJ3brU4wkMS1y84bNlIUiwpQykIxmq9_I7zceeMsHhXy0-Ia9Y7L8G0&s=10" width="100" height="100" alt="CLG"> <br>  CLG: VIIT DUVVADA VIZAG<br></p>
+       <p><img src="https://static.vecteezy.com/system/resources/thumbnails/054/060/722/small/simple-illustration-of-a-brown-tree-branch-with-green-leaves-growing-isolated-on-a-white-background-perfect-for-educational-or-nature-themed-projects-vector.jpg" width="100" height="100" alt="BRNACH"> <br>  BRANCH: CSE - AI <br></p>
+       <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvHtfLqIq6n1Lz8MdCpcRoH-z0sMNfSUrWxWl3vSL_lJJLyb1-KotmRM&s=10" width="100" height="100" alt="GENDER"> <br>  GENDER: MALE </p>
+
+    
+
+    <h2>CODING PROFILES</h2>
+    
+        <h3>LEETCODE</h3>   <a href="https://leetcode.com/" target="_blank" > THIS IS MY LEETCODE PROFILE</a>
+        <h3>CODECHEF</h3>   <a href="https://www.codechef.com/" target="_blank"> THIS IS MY CODECHEF PROFILE</a>
+        <h3>GITHUB</h3>     <a href="https://github.com/" target="_blank"> THIS IS MY GITHUB PROFILE</a>
+    
+    
+</body>
+</html>
+  
