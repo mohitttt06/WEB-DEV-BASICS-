@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -124,6 +125,78 @@
     <article>
         <b>this is mohit . im a passionate coder and enthusiastic developer who is looking forward to wrk with you and grow together</b>
     </article>
+
+
+    <section>
+        <h2>THESE ARE MY PROJECTS</h2>
+
+
+        <table>
+            <caption>MY PROJECTS</caption>
+
+            <thead>
+                <tr>
+                <th>
+                    NAME
+                </th>
+                <th>
+                    STATUS
+                </th>
+                <th>
+                    TECHSTACK
+                </th>
+            </tr>
+
+            </thead>
+            <tbody>
+                 
+            <tr>
+                
+                <td>
+                    
+                    
+                    RUNIT
+
+                </td>
+                <td>
+                    DEPLOYED
+                </td>
+                <td>
+                    REACT,SUPABASE,VERCEL,RENDER
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    TRACEIT
+                </td>
+                <td>
+                    DEPLOPYED
+                </td>
+                <td>
+                    REACT,PYTHON,FASTAPI,PHASH,VERCEL,RENDER
+                </td>
+            </tr>
+            </tbody>
+
+            <tfoot>
+                <th>
+                    TOTAL PROJECTS
+                </th>
+                <td>
+                    2
+                </td>
+            </tfoot>
+
+
+            
+        
+
+    </table>
+
+    </section>
+
+    
     
        
 
