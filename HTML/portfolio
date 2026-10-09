@@ -214,6 +214,26 @@
     <aside>
         <p>this is my curated course which is being used by wide users</p>
         <p>purchase it</p>
+
+        <p>EARLY BIRD OFFER FOR MY USERS</p>
+        <p>REGISTER HERE</p>
+        
+
+        <form>
+            <label for="text">ENTER YOUR NAME</label>
+            <input type="text" id="text" name="username">
+            <label for="email">ENTER YOUR EMAIL</label>
+            <input type="email" id="email" name="email">
+            <label for="password">ENTER YOUR PASSWORD</label>
+            <input type="password" id="password" name="password">
+            <label for="number">ENTER YOUR AGE</label>
+            <input type="number" id="number" name="number" placeholder="ENTER YOUR AGE">
+            <label for="number">VERIFICATION 1</label>
+            <input type="number" id="number" name="number" min="12" placeholder="ENTER NUMBER WHICH IS MIN 12">
+            <label for="number">VERIFICATION 2</label>
+            <input type="number" id="number" name="number" max="69" placeholder="ENTER NUMBER WHICH IS MAX 69">
+            <button type="submit">REGISTER</button>
+        </form>
     </aside>
 
 
@@ -237,6 +257,15 @@
         <p>
             abc123@gmail.com
         </p>
+
+
+        <p>EMAIL ME</p>
+
+        <form>
+            <label for="email">Email: </label>
+            <input type="email" id="email">
+            <button type="submit">SEND</button>
+        </form>
 
         
     </footer>
